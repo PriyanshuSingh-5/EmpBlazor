@@ -1,0 +1,26 @@
+@page "/index"
+
+@model List<Employee>
+@using BlazorEmpwage.Data
+
+<h2>Index</h2>
+
+
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Department</th>
+        <th>Notes</th>
+    </tr>
+    @foreach( var item in Model)
+            {
+<tr>
+    <td>@item.Name</td>
+    <td>@item.Gender</td>
+    <td>@item.Department</td>
+    <td>@item.Notes</td>
+</tr>
+            }
+</table>

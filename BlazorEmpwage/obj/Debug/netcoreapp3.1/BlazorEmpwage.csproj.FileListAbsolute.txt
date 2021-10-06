@@ -1,0 +1,169 @@
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.csproj.AssemblyReference.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.AssemblyInfoInputs.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.AssemblyInfo.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.csproj.CoreCompileInputs.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorComponent.input.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorComponent.output.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.exe
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.deps.json
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.runtimeconfig.json
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.runtimeconfig.dev.json
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.pdb
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.Views.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.Views.pdb
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\BlazorEmpwage.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.TagHelpers.input.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.TagHelpers.output.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorCoreGenerate.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorAssemblyInfo.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorAssemblyInfo.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\staticwebassets\BlazorEmpwage.StaticWebAssets.Manifest.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\staticwebassets\BlazorEmpwage.StaticWebAssets.xml
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlazorEmpwage.styles.css
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorTargetAssemblyInfo.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorTargetAssemblyInfo.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.Views.pdb
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.pdb
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.genruntimeconfig.cache
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.csproj.CopyComplete
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmpApp.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\EmpApp.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmpHome.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\EmpHome.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\AddEmp.cshtml.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditEmp.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\EditEmp.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Delete.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\Delete.razor.g.cs
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\HttpClientService.Blazor.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\K.R.DHASHNIGA\source\repos\BlazorEmpwage\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.exe
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.deps.json
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.runtimeconfig.json
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.pdb
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.Views.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\BlazorEmpwage.Views.pdb
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\HttpClientService.Blazor.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.AssemblyInfo.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorComponent.input.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Delete.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditEmp.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmpApp.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmpHome.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorComponent.output.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\RazorDeclaration\BlazorEmpwage.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.TagHelpers.input.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.TagHelpers.output.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorCoreGenerate.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\Delete.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\EditEmp.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\EmpApp.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\EmpHome.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\AddEmp.cshtml.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\staticwebassets\BlazorEmpwage.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\staticwebassets\BlazorEmpwage.StaticWebAssets.xml
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlazorEmpwage.styles.css
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.Views.pdb
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.csproj.CopyComplete
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.pdb
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.genruntimeconfig.cache
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\HomeEmp.cshtml.g.cs
