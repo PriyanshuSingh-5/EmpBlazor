@@ -98,25 +98,25 @@ using BlazorEmpwage.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 249 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\EmpApp.razor"
-       
+#line 217 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\EmpApp.razor"
+        
+    public bool Checksubmit = true;
     Employee Emp = new Employee();
     //Employee objCI = new Employee();
     protected void CreateCustomer()
     {
         ObjService.Create(Emp);
-         navigation.NavigateTo("empwage");
+        navigation.NavigateTo("empwage");
     }
     void Cancel()
     {
         navigation.NavigateTo("empwage");
-    }
+    } 
 
 #line default
 #line hidden
 #nullable disable
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager navigation { get; set; }
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IHttpClientFactory ClientFactory { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private EmpServices ObjService { get; set; }
     }
 }

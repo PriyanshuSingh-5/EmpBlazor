@@ -98,7 +98,7 @@ using BlazorEmpwage.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 43 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\Delete.razor"
+#line 44 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\Delete.razor"
         //Employee emp = new Employee();
             [Parameter]
             public string CurretnID { get; set; }

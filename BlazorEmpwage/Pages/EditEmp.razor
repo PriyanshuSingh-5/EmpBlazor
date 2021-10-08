@@ -4,72 +4,98 @@
 
 @inject EmpServices ObjCustomService
 
-<h2>Edit</h2>
-<h4>Employees</h4>
-<hr />
-<form>
-    <div class="row">
-        <div class="col-md-8">
-            <div class="form-group">
-                <input for="Name" class="form-control" @bind="@objCI.EmployeeId" />
-            </div>
-            <div class="form-group">
-                <label for="Name" class="control-label">Name</label>
-                <input for="Name" class="form-control" @bind="@objCI.Name" />
-            </div>
-            <div class="form-group">
-                <label asp-for="Gender" class="control-label">Gender</label>
-                <select @bind="@objCI.Gender" class="form-control">
-                    <option value="">-- Select Gender --</option>
-                    <option value="Male">Male</option>
-                    <option value="Female">Female</option>
-                </select>
-            </div>
-            <div class="form-group">
-                <label for="Country" class="control-label">Department</label>
-                <input for="Country" class="form-control" @bind="@objCI.Department" />
-            </div>
-            <div class="form-group">
-                <label for="Country" class="control-label">Salary</label>
-                <input for="Country" class="form-control" @bind="@objCI.Salary" />
-            </div>
-            <div class="form-group">
-                <label for="Country" class="control-label">StartDate</label>
-                <input for="Country" class="form-control" @bind="@objCI.StartDate" />
-            </div>
-            <div class="form-group">
-                <label for="City" class="control-label">Notes</label>
-                <input for="City" class="form-control" @bind="@objCI.Notes" />
-            </div>
+@*<h2>Edit</h2>
+
+<hr />*@
+<header class="header-content header">
+    <div class="logo-content">
+        <h2>Edit</h2>
+        <a href="./EmployeePayrollHome.html"> <img src="/assets/logo.png" alt="logo image"></a>
+        <div>
+            <span class="emp-text">EMPLOYEE</span><br>
+            <span class="emp-text emp-payroll">PAYROLL  </span>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-4">
-            <div class="form-group">
+</header>
+<div class="form-content">
+@*<EditForm Model="@objCI">*@
+    <EditForm Model="@objCI">
+
+        <div class="row-content">
+            <label class="label text" for="name">EmployeeId</label>
+            <input for="Name" class="form-control" @bind="@objCI.EmployeeId" />
+
+            <error-output class="name-error" for="name"></error-output>
+        </div>
+        <div class="row-content">
+            <label class="label text" for="name">Name</label>
+            <input for="Name" class="form-control" @bind="@objCI.Name" />
+
+            <error-output class="name-error" for="name"></error-output>
+        </div>
+        <div class="row-content">
+            <label class="label text" for="gender">Gender</label>
+            <select @bind="@objCI.Gender" class="form-control">
+                <option value="">-- Select Gender --</option>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+            </select>
+        </div>
+        <div class="row-content">
+            <label class="label text" for="name">Department</label>
+            <input for="Name" class="form-control" @bind="@objCI.Department" />
+
+            <error-output class="name-error" for="name"></error-output>
+        </div>
+        <div class="row-content">
+            <label class="label text" for="name">Salary</label>
+            <input for="Name" class="form-control" @bind="@objCI.Salary" />
+
+            <error-output class="name-error" for="name"></error-output>
+        </div>
+        <div class="row-content">
+            <label class="label text" for="name">StartDate</label>
+            <input for="Name" class="form-control" @bind="@objCI.StartDate" />
+
+            <error-output class="name-error" for="name"></error-output>
+        </div>
+        <div class="row-content">
+            <label class="label text" for="name">Notes</label>
+            <input for="Name" class="form-control" @bind="@objCI.Notes" />
+
+            <error-output class="name-error" for="name"></error-output>
+        </div>
+
+        <div class="button-content">
+            <a href="/emphome" class="add-button">Cancel</a>
+            <div class="submit-reset">
                 <input type="button" @onclick="@UpdateCustomer" class="btn btn-primary" value="Save" />
-                @*<input type="button" @onclick="@Cancel" class="btn btn-primary" value="Cancel" />*@
+                
+
             </div>
         </div>
+    </EditForm>
     </div>
-</form>
 
-@code {
-    //Employee emp = new Employee();
-    [Parameter]
-    public string CurretnID { get; set; }
-    Employee objCI = new Employee();
 
-    protected override async Task OnInitializedAsync()
-    {
-        objCI = await Task.Run(() => ObjCustomService.GetCustomerByID(Convert.ToInt32(CurretnID)));
-    }
-    protected void UpdateCustomer()
-    {
-        ObjCustomService.UpdateCustomer(objCI);
-        //NavigationManager.NavigateTo("Customer");
-    }
-    void Cancel()
-    {
-        //NavigationManager.NavigateTo("Customer");
-    }
-}
+
+    @*</div>*@
+
+    @code { //Employee emp = new Employee();
+        [Parameter]
+        public string CurretnID { get; set; }
+        Employee objCI = new Employee();
+
+        protected override async Task OnInitializedAsync()
+        {
+            objCI = await Task.Run(() => ObjCustomService.GetCustomerByID(Convert.ToInt32(CurretnID)));
+        }
+        protected void UpdateCustomer()
+        {
+            ObjCustomService.UpdateCustomer(objCI);
+            //NavigationManager.NavigateTo("Customer");
+        }
+        void Cancel()
+        {
+            //NavigationManager.NavigateTo("Customer");
+        } }

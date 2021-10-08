@@ -98,26 +98,25 @@ using BlazorEmpwage.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 56 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\EditEmp.razor"
-       
-    //Employee emp = new Employee();
-    [Parameter]
-    public string CurretnID { get; set; }
-    Employee objCI = new Employee();
+#line 84 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\EditEmp.razor"
+            //Employee emp = new Employee();
+        [Parameter]
+        public string CurretnID { get; set; }
+        Employee objCI = new Employee();
 
-    protected override async Task OnInitializedAsync()
-    {
-        objCI = await Task.Run(() => ObjCustomService.GetCustomerByID(Convert.ToInt32(CurretnID)));
-    }
-    protected void UpdateCustomer()
-    {
-        ObjCustomService.UpdateCustomer(objCI);
-        //NavigationManager.NavigateTo("Customer");
-    }
-    void Cancel()
-    {
-        //NavigationManager.NavigateTo("Customer");
-    }
+        protected override async Task OnInitializedAsync()
+        {
+            objCI = await Task.Run(() => ObjCustomService.GetCustomerByID(Convert.ToInt32(CurretnID)));
+        }
+        protected void UpdateCustomer()
+        {
+            ObjCustomService.UpdateCustomer(objCI);
+            //NavigationManager.NavigateTo("Customer");
+        }
+        void Cancel()
+        {
+            //NavigationManager.NavigateTo("Customer");
+        } 
 
 #line default
 #line hidden
