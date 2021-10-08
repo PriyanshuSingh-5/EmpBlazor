@@ -65,22 +65,25 @@
                 </div>
             </div>*@
 
-        <div class="row-content">
+    <div class="row-content">
 
-            <label class="label text" for="gender">Gender</label>
+        <label class="label text" for="gender">Gender</label>
+        <select @bind="@Emp.Gender" class="form-control">
+            <option value="">-- Select Gender --</option>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select>
+    </div>
 
-
-            <input class="input" type="text" id="gender" @bind-value="@Emp.Gender" required>
-
-            <error-output class="name-error" for="name"></error-output>
-        </div>
-
-        <div class="row-content">
-            <label class="label text" for="department">Department</label>
-            <input class="input" type="text" id="department" @bind="@Emp.Department" required>
-
-            <error-output class="name-error" for="name"></error-output>
-        </div>
+    <div class="row-content">
+        <label class="label text" for="gender">Department</label>
+        <select @bind="@Emp.Department" class="form-control">
+            <option value="">-- Select Department --</option>
+            <option value="HR">HR</option>
+            <option value="Engineer">Engineer</option>
+            <option value="Finanace">Finanace</option>
+        </select>
+    </div>
         @*<div class="row-content">
                 <label class="label text" for="department">Department</label>
                 <div>
