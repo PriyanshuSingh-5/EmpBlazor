@@ -106,11 +106,11 @@ using BlazorEmpwage.Services;
 
         protected override async Task OnInitializedAsync()
         {
-            objCI = await Task.Run(() => ObjCustomService.GetCustomerByID(Convert.ToInt32(CurretnID)));
+            objCI = await Task.Run(() => ObjCustomService.GetEmployeeByID(Convert.ToInt32(CurretnID)));
         }
         protected void UpdateCustomer()
         {
-            ObjCustomService.UpdateCustomer(objCI);
+            ObjCustomService.UpdateEmployee(objCI);
             //NavigationManager.NavigateTo("Customer");
         }
         void Cancel()

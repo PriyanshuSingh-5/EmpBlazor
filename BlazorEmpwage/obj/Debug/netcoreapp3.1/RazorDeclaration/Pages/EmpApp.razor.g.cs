@@ -98,7 +98,7 @@ using BlazorEmpwage.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 220 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\EmpApp.razor"
+#line 216 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\EmpApp.razor"
         
     public bool Checksubmit = true;
     Employee Emp = new Employee();
@@ -112,6 +112,7 @@ using BlazorEmpwage.Services;
     {
         navigation.NavigateTo("empwage");
     } 
+    
 
 #line default
 #line hidden

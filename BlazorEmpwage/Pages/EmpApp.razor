@@ -23,11 +23,7 @@
 <div class="form-content">
     <EditForm Model="@Emp" OnSubmit="@CreateCustomer">
         <div class="form-head">Employee Payroll form</div>
-        @*<div class="row-content">
-                <label class="label text" for="empid">EmpId</label>
-                <input class="input" type="text" id="empid" @bind-value="@Emp.EmployeeId" required>
-                <error-output class="name-error" for="name"></error-output>
-            </div>*@
+       
         <div class="row-content">
             <label class="label text" for="name">Name</label>
             <input class="input" type="text" id="name" @bind-value="@Emp.Name" required>
@@ -80,8 +76,8 @@
         <select @bind="@Emp.Department" class="form-control">
             <option value="">-- Select Department --</option>
             <option value="HR">HR</option>
-            <option value="Engineer">Engineer</option>
-            <option value="Finanace">Finanace</option>
+            <option value="Engineer">ENG</option>
+            <option value="Finanace">CSE</option>
         </select>
     </div>
         @*<div class="row-content">
@@ -229,4 +225,5 @@
     void Cancel()
     {
         navigation.NavigateTo("empwage");
-    } }
+    } 
+    }

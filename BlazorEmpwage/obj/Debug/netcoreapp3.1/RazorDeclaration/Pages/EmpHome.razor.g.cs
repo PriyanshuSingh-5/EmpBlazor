@@ -106,7 +106,7 @@ using BlazorEmpwage.Services;
     protected override async Task OnInitializedAsync()
     {
         EmpServices objCS = new EmpServices();
-        Emp = await Task.Run(() => objCS.GetCustomer());
+        Emp = await Task.Run(() => objCS.GetEmployee());
     }
 
 #line default

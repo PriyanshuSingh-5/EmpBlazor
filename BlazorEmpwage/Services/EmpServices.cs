@@ -10,7 +10,7 @@ namespace BlazorEmpwage.Services
     public class EmpServices
     {
         EmpDataAccessLayer objCustomerDAL = new EmpDataAccessLayer();
-        public List<Employee> GetCustomer()
+        public List<Employee> GetEmployee()
         {
             List<Employee> customers = objCustomerDAL.GetAllEmployee().ToList();
             return customers;
@@ -21,17 +21,17 @@ namespace BlazorEmpwage.Services
             return "Added Successfully";
         }
 
-        public Employee GetCustomerByID(int id)
+        public Employee GetEmployeeByID(int id)
         {
             Employee customer = objCustomerDAL.GetEmployeeData(id);
             return customer;
         }
-        public string UpdateCustomer(Employee objcustomer)
+        public string UpdateEmployee(Employee objcustomer)
         {
             objCustomerDAL.UpdateEmployee(objcustomer);
             return "Update Successfully";
         }
-        public string DeleteCustomer(Employee objcustomer)
+        public string DeleteEmployee(Employee objcustomer)
         {
             objCustomerDAL.DeleteEmployee(objcustomer.EmployeeId);
             return "Delete Successfully";

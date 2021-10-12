@@ -9,32 +9,7 @@ namespace BlazorEmpwage.Data
 {
     public class EmpDataAccessLayer
     {
-        // string connectionString = "Put Your Connection string here";
-        //SqlConnection con = new SqlConnection("Data Source=LAPTOP-QJSM3AFE\\SQLEXPRESS;Initial Catalog=Blazor;Integrated Security=True;");
-
-        //public List<Employee>GetEmployees()
-        //{
-        //    List<Employee> listObj = new List<Employee>();
-        //    SqlCommand cmd = new SqlCommand("usp_getEmployee", con);
-        //    cmd.CommandType = CommandType.StoredProcedure;
-        //    DataTable dt = new DataTable();
-        //    SqlDataAdapter da = new SqlDataAdapter(cmd);
-        //    da.Fill(dt);
-        //    foreach(DataRow dr in dt.Rows)
-        //        {
-        //        Employee emp = new Employee();
-        //        emp.EmployeeId = Convert.ToInt32(dr[0]);
-        //        emp.Name = Convert.ToString(dr[1]);
-        //        emp.Gender = Convert.ToString(dr[2]);
-        //        emp.Department = Convert.ToString(dr[3]);
-        //        emp.Notes = Convert.ToString(dr[4]);
-        //        listObj.Add(emp);
-
-        //    }
-
-
-        //    return listObj;
-        //}
+       
 
         string connectionString = "Data Source=LAPTOP-QJSM3AFE\\SQLEXPRESS;Initial Catalog=Blazor;Integrated Security=True;";
         //To View all Customers details    
