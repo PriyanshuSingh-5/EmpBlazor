@@ -98,21 +98,21 @@ using BlazorEmpwage.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 106 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\EmpHome.razor"
-       
-
-   // public Employee emp = new Employee();
-    List<Employee> Emp;
-    protected override async Task OnInitializedAsync()
-    {
-        EmpServices objCS = new EmpServices();
-        Emp = await Task.Run(() => objCS.GetEmployee());
-    }
+#line 107 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\EmpHome.razor"
+        // public Employee emp = new Employee();
+            List<Employee> Emp;
+            protected override async Task OnInitializedAsync()
+            {
+                //EmpServices objCS = new EmpServices();
+                //Emp = await Task.Run(() => objCS.GetEmployee());
+                Emp = await Task.Run(() => _db.GetEmployee());
+            } 
 
 #line default
 #line hidden
 #nullable disable
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private EmpService employeeServices { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IEmpServices _db { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private EmpServices services { get; set; }
     }
 }

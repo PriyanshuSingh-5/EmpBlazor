@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorEmpwage", "BlazorEmpwage\BlazorEmpwage.csproj", "{BD4319AE-F550-4AA0-A1B4-9FE9A7496B24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{9E7C41BC-4322-427C-B012-AF176A3542B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{0C1293CA-A2C7-49A0-998C-22E46250F0D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BD4319AE-F550-4AA0-A1B4-9FE9A7496B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD4319AE-F550-4AA0-A1B4-9FE9A7496B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD4319AE-F550-4AA0-A1B4-9FE9A7496B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7C41BC-4322-427C-B012-AF176A3542B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7C41BC-4322-427C-B012-AF176A3542B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7C41BC-4322-427C-B012-AF176A3542B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7C41BC-4322-427C-B012-AF176A3542B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C1293CA-A2C7-49A0-998C-22E46250F0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1293CA-A2C7-49A0-998C-22E46250F0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1293CA-A2C7-49A0-998C-22E46250F0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1293CA-A2C7-49A0-998C-22E46250F0D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

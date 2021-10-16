@@ -98,29 +98,33 @@ using BlazorEmpwage.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 54 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\Delete.razor"
+#line 59 "C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\Pages\Delete.razor"
         //Employee emp = new Employee();
-            [Parameter]
-            public string CurretnID { get; set; }
-            Employee objCI = new Employee();
+    public bool Checksubmit = true;
+    [Parameter]
+    public string CurretnID { get; set; }
+    Employee objCI = new Employee();
 
-            protected override async Task OnInitializedAsync()
-            {
-                objCI = ObjCustomService.GetEmployeeByID(Convert.ToInt32(CurretnID));
-            }
-            protected void DeleteCustomers()
-            {
-                ObjCustomService.DeleteEmployee(objCI);
-                // NavigationManager.NavigateTo("Customer");
-            }
-            void Cancel()
-            {
-                // NavigationManager.NavigateTo("Customer");
-            } 
+    protected override async Task OnInitializedAsync()
+    {
+        objCI = ObjCustomService.GetEmployeeByID(Convert.ToInt32(CurretnID));
+    }
+    protected void DeleteCustomers()
+    {
+        ObjCustomService.DeleteEmployee(objCI);
+        // NavigationManager.NavigateTo("Customer");
+        navigation.NavigateTo("empHome");
+    }
+    void Cancel()
+    {
+        // NavigationManager.NavigateTo("Customer");
+        navigation.NavigateTo("empHome");
+    } 
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager navigation { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private EmpServices ObjCustomService { get; set; }
     }
 }

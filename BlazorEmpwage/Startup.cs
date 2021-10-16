@@ -35,9 +35,11 @@ namespace BlazorEmpwage
             services.AddSingleton<WeatherForecastService>();
             services.AddSingleton<EmpService>();
             services.AddSingleton<EmpServices>();
-            services.AddHttpClient<IEmployeeServices, EmployeeServicecs>();
+            services.AddTransient<IEmpDataAccessLayer, EmpDataAccessLayer>();
+            services.AddTransient<IEmpServices, EmpServices>();
+            // services.AddHttpClient<IEmployeeServices, EmployeeServicecs>();
 
-            
+
 
             var SQLConnCofig = new SQLConnConfig(Configuration.GetConnectionString("EmpWage"));
             services.AddSingleton(SQLConnCofig);

@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
@@ -7,14 +9,19 @@ using System.Threading.Tasks;
 
 namespace BlazorEmpwage.Data
 {
-    public class EmpDataAccessLayer
+    public class EmpDataAccessLayer : IEmpDataAccessLayer
     {
-       
+        private readonly IConfiguration _config;
+        public string ConnectionStringName { get; set; } = "EmpWage";
+        public EmpDataAccessLayer(IConfiguration config)
+        {
+            _config = config;
+        }
 
-        string connectionString = "Data Source=LAPTOP-QJSM3AFE\\SQLEXPRESS;Initial Catalog=Blazor;Integrated Security=True;";
-        //To View all Customers details    
+
         public IEnumerable<Employee> GetAllEmployee()
         {
+            string connectionString = _config.GetConnectionString(ConnectionStringName);
             List<Employee> lstCustomer = new List<Employee>();
             using (SqlConnection con = new SqlConnection(connectionString))
             {
@@ -40,9 +47,10 @@ namespace BlazorEmpwage.Data
         }
         //To Add new Customer record    
 
-        
+
         public void AddEmployee(Employee Customer)
         {
+            string connectionString = _config.GetConnectionString(ConnectionStringName);
             using (SqlConnection con = new SqlConnection(connectionString))
             {
                 SqlCommand cmd = new SqlCommand("usp_AddEmployee", con);
@@ -64,6 +72,7 @@ namespace BlazorEmpwage.Data
         //To Update the records of a particluar Customer  
         public void UpdateEmployee(Employee Customer)
         {
+            string connectionString = _config.GetConnectionString(ConnectionStringName);
             using (SqlConnection con = new SqlConnection(connectionString))
             {
                 SqlCommand cmd = new SqlCommand("usp_UpdateEmployee", con);
@@ -86,6 +95,7 @@ namespace BlazorEmpwage.Data
         //Get the details of a particular Customer  
         public Employee GetEmployeeData(int? id)
         {
+            string connectionString = _config.GetConnectionString(ConnectionStringName);
             Employee Customer = new Employee();
 
             using (SqlConnection con = new SqlConnection(connectionString))
@@ -114,6 +124,7 @@ namespace BlazorEmpwage.Data
         //To Delete the record on a particular Customer  
         public void DeleteEmployee(int? id)
         {
+            string connectionString = _config.GetConnectionString(ConnectionStringName);
             using (SqlConnection con = new SqlConnection(connectionString))
             {
                 SqlCommand cmd = new SqlCommand("usp_DeleteEmp", con);
@@ -126,3 +137,4 @@ namespace BlazorEmpwage.Data
         }
     }
 }
+

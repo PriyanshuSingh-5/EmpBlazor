@@ -3,10 +3,14 @@
 @using BlazorEmpwage.Services
 
 @inject EmpServices ObjCustomService
-
+@inject NavigationManager navigation
 @*<h2>Edit</h2>
 
-<hr />*@
+    <hr />*@
+@if (Checksubmit)
+{
+<p class="alert-warning">Emp details Updated Successfully</p>
+}
 <header class="header-content header">
     <div class="logo-content">
         <h2>Edit</h2>
@@ -18,7 +22,7 @@
     </div>
 </header>
 <div class="form-content">
-@*<EditForm Model="@objCI">*@
+    @*<EditForm Model="@objCI">*@
     <EditForm Model="@objCI">
 
         <div class="row-content">
@@ -70,32 +74,33 @@
             <a href="/emphome" class="add-button">Cancel</a>
             <div class="submit-reset">
                 <input type="button" @onclick="@UpdateCustomer" class="btn btn-primary" value="Save" />
-                
+
 
             </div>
         </div>
     </EditForm>
-    </div>
+</div>
 
 
 
-    @*</div>*@
+@*</div>*@
 
-    @code { //Employee emp = new Employee();
-        [Parameter]
-        public string CurretnID { get; set; }
-        Employee objCI = new Employee();
+@code { //Employee emp = new Employee();
+    public bool Checksubmit = true;
+    [Parameter]
+    public string CurretnID { get; set; }
+    Employee objCI = new Employee();
 
-        protected override async Task OnInitializedAsync()
-        {
-            objCI = await Task.Run(() => ObjCustomService.GetEmployeeByID(Convert.ToInt32(CurretnID)));
-        }
-        protected void UpdateCustomer()
-        {
-            ObjCustomService.UpdateEmployee(objCI);
-            //NavigationManager.NavigateTo("Customer");
-        }
-        void Cancel()
-        {
-            //NavigationManager.NavigateTo("Customer");
-        } }
+    protected override async Task OnInitializedAsync()
+    {
+        objCI = await Task.Run(() => ObjCustomService.GetEmployeeByID(Convert.ToInt32(CurretnID)));
+    }
+    protected void UpdateCustomer()
+    {
+        ObjCustomService.UpdateEmployee(objCI);
+        navigation.NavigateTo("empHome");
+    }
+    void Cancel()
+    {
+        navigation.NavigateTo("empHome");
+    } }

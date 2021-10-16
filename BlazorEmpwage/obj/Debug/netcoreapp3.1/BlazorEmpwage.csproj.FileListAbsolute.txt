@@ -167,3 +167,7 @@ C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmp
 C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.pdb
 C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\BlazorEmpwage.genruntimeconfig.cache
 C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\obj\Debug\netcoreapp3.1\Razor\Pages\HomeEmp.cshtml.g.cs
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Admin\Downloads\BlazorEmpwage-master (1)\BlazorEmpwage-master\BlazorEmpwage\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
